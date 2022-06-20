@@ -1,0 +1,17 @@
+https://itera-qa.azurewebsites.net/home
+https://demo.opencart.com/
+https://www.globalsqa.com/demo-site/
+https://testautomationpractice.blogspot.com/
+https://the-internet.herokuapp.com/
+https://opensource-demo.orangehrmlive.com/
+https://demo.nopcommerce.com/
+https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+https://demo.opencart.com/admin/
+http://automationpractice.com/index.php
+https://formy-project.herokuapp.com/
+https://selenium-blog.herokuapp.com/
+http://34.225.240.91/#/
+https://rahulshettyacademy.com/loginpagePractise/
+http://leafground.com/home.html
+https://letcode.in/test
+https://naveenautomationlabs.com/opencart/
