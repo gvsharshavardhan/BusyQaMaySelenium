@@ -15,3 +15,6 @@ https://rahulshettyacademy.com/loginpagePractise/
 http://leafground.com/home.html
 https://letcode.in/test
 https://naveenautomationlabs.com/opencart/
+
+
+//span[contains(text(),'Samsung')]//ancestor::div[@data-component-type="s-search-result"]//span[@class='a-price']/span[@class='a-offscreen']
